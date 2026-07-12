@@ -1,0 +1,54 @@
+ProxyKit — Proprietary Software License
+
+Copyright (c) 2026 Seyed Ahmad Sarollahi. All Rights Reserved.
+
+NOTICE: This software and its source code are proprietary and confidential.
+They are NOT open source and are NOT licensed under any open-source license.
+
+1. OWNERSHIP
+   ProxyKit (the "Software"), including all source code, object code, binaries,
+   designs, documentation, trademarks, and related intellectual property, is the
+   exclusive property of Seyed Ahmad Sarollahi ("Licensor"). All rights not expressly
+   granted herein are reserved.
+
+2. NO RIGHTS GRANTED BY THIS FILE
+   The presence of this source code in a repository, archive, or distribution
+   does not grant any license, right, title, or interest in the Software. No
+   right to use, copy, modify, merge, publish, distribute, sublicense, sell,
+   reverse engineer, decompile, disassemble, or create derivative works of the
+   Software is granted by this file or by access to this repository.
+
+3. AUTHORIZED USE
+   Use of the Software is permitted ONLY under a separate written agreement
+   executed with Licensor, such as:
+     (a) the ProxyKit End User License Agreement (EULA) accompanying an
+         official binary distribution; or
+     (b) a ProxyKit SaaS / Subscription Agreement; or
+     (c) a written commercial license signed by Licensor.
+
+   In the absence of such an agreement, you have NO right to install, run,
+   copy, or otherwise use the Software.
+
+4. CONFIDENTIALITY
+   The source code and any non-public materials of the Software are the
+   confidential trade secrets of Licensor. Recipients of the source code (e.g.,
+   employees, contractors, or auditors under NDA) must keep it strictly
+   confidential and may not disclose, publish, or share it with any third party.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. ENFORCEMENT
+   Unauthorized use, reproduction, or distribution of the Software constitutes
+   copyright infringement and will be prosecuted to the fullest extent
+   permitted by law.
+
+For licensing inquiries, contact: ahmad.sarollahi@gmail.com
